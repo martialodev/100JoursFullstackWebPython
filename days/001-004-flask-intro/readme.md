@@ -26,11 +26,8 @@ Ce ne sera pas un trop grand investissement en temps - ceci est destiné à vous
 
 ### Il est temps de partager ce que vous avez accompli !
 
-N'oubliez pas de partager vos derniers jours de travail sur Twitter ou Facebook. Utilisez le hashtag **#100DaysOfWeb**. 
+N'oubliez pas de partager vos derniers jours de travail sur Twitter ou Facebook. Utilisez le hashtag **#100JoursFullstackWebPython**. 
 
-Voici [quelques exemples](https://twitter.com/search?q=%23100DaysOfCode) pour vous inspirer. Pensez à inclure [@talkpython](https://twitter.com/talkpython) et [@pybites](https://twitter.com/pybites) dans vos tweets.
+Pensez à inclure [@martialobug](https://twitter.com/martialobug).
 
-*Voir une erreur dans ces instructions ? Veuillez [soumettre un nouveau numéro](https://github.com/talkpython/100daysofweb-with-python-course/issues) ou le corriger et [soumettre un PR](https://github.com/talkpython/100daysofweb-with-python-course/pulls).*
-
-
-Traduit avec www.DeepL.com/Translator (version gratuite)
+*Voir une erreur dans ces instructions ? Veuillez [soumettre un nouveau numéro](https://github.com/martialodev/100JoursFullstackWebPython/issues)*
