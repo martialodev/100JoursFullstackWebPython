@@ -14,7 +14,7 @@ Le deuxième jour, vous regarderez les vidéos restantes de *Création du modèl
 
 Ces vidéos reprennent ce que vous avez créé le premier jour et vous montrent comment créer un thème persistant (modèle) sur toutes les pages de votre application Flask.
 
-## Jour 3-4 : Jouez !
+## Jour 3-4 : amusez-vous !
 
 À ce stade, vous aurez appris à créer une application Flask avec un thème récurrent sur toutes les pages.
 
