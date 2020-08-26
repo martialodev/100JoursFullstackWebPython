@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# PyCharm
+misc.xml
+modules.xml
+workspace.xml
+hovershare_app_starter.iml
+dataSources.local.xml
+jours/001-004-flask-intro/.idea/
+
