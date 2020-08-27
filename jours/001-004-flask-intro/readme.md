@@ -4,13 +4,13 @@ Cette introduction à Flask vous permettra de créer votre première application
 
 ## Jour 1 : Regardez la première moitié des leçons vidéo
 
-Le premier jour, vous regarderez et suivrez les vidéos de *Flask Setup* à *Configuring your .flaskenv file*.
+Le premier jour, vous regarderez et suivrez les vidéos de *Setup et installation de flask* à *python-dotenv*.
 
 C'est beaucoup de contenu, oui, mais vous allez créer votre première application Flask ! C'est passionnant !
 
 ## Jour 2 : Regardez la seconde moitié des leçons vidéo
 
-Le deuxième jour, vous regarderez les vidéos restantes de *Création du modèle d'index* jusqu'à la fin.
+Le deuxième jour, vous regarderez les vidéos restantes de *Création du du fichier index.html* jusqu'à la fin.
 
 Ces vidéos reprennent ce que vous avez créé le premier jour et vous montrent comment créer un thème persistant (modèle) sur toutes les pages de votre application Flask.
 
