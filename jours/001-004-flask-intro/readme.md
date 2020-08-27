@@ -1,4 +1,4 @@
-# Jours 01-04 Introduction au Framwork Flask
+# Jours 01-04 Introduction au Web Framework Flask
 
 Cette introduction à Flask vous permettra de créer votre première application Flask en utilisant la méthode de conditionnement et d'apprendre à créer des modèles persistants.
 
