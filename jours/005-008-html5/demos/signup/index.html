@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sign up for FoxRem</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="extras/form.css">
+    <link rel="stylesheet" href="extras/site.css">
+
+</head>
+<body>
+
+<!-- sign up form here ... -->
+<h1>Enregistrez vous pour reserver votre billet!</h1>
+
+<form action="" method="post">
+
+    <input type="text" name="full_name" required placeholder=" nom complet">
+    <input type="email" name="email" required placeholder=" email">
+    <input type="password" minlength="6" name="password" required placeholder=" mot de passe">
+    <input type="number" min="18" name="age" required placeholder=" âge en années">
+    <select name="heard_of" required>
+        <option value="" selected>Sélectionnez une option</option>
+        <option value="VIP">Places VIP</option>
+        <option value="handicapés">Places pour handicapés</option>
+        <option value="normal">Places normales</option>
+    </select>
+    <button type="submit">Je m'enregistre</button>
+
+</form>
+
+
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="extras/form_hook.js"></script>
+</body>
+</html>
