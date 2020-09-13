@@ -40,7 +40,7 @@ Bonne chance et n'oubliez pas : l'apprentissage est dans la pratique.
 
 ### Il est temps de partager ce que vous avez accompli !
 
-N'oubliez pas de partager votre travail des deux derniers jours sur Twitter ou Facebook. Utilisez le hashtag **#100DaysOfWeb**. 
+N'oubliez pas de partager votre travail des deux derniers jours sur Twitter ou Facebook. Utilisez le hashtag **#100JoursFullstackWebPython**. 
 
 Pensez à inclure [@martialobug](https://twitter.com/martialobug) dans vos tweets.
 
