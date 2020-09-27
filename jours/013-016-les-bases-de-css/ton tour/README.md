@@ -22,9 +22,9 @@ Utilisez la boîte de dialogue "Que puis-je utiliser" pour trouver des élément
 
 Dans la partie Démonstration de la mise en page, vous avez vu que nous pouvons convertir une liste HTML en un élément de navigation en modifiant l'affichage et d'autres propriétés CSS.
 
-Ce jour-là, utilisez une technique similaire pour convertir une liste d'hyperliens en éléments de navigation du site ewag :
+Ce jour-là, utilisez une technique similaire pour convertir une liste d'hyperliens en éléments de navigation du site m :
 
-![](martialodev.png)
+![](martialodev.PNG)
 
 
 - martialodev
